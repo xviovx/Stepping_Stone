@@ -3,7 +3,7 @@
 ## **IMPORTANT NOTE:**
 ### For some odd reason, I couldn't upload the react client file to my github repository, I spent a while trying to debug this and couldn't find any solution. Pieter mentioned that he had the same problem. For this reason, here is a link to the google drive with the full project (the React client included): https://drive.google.com/file/d/13Jz0sV4zAkgN_ei3YOAsyYnfBepU5kPR/view?usp=sharing
 
-^^THE ABOVE LINK HAS BEEN UPDATED BECAUSE I STILL HAVE THE SAME PROBLEM
+#^^THE ABOVE LINK HAS BEEN UPDATED BECAUSE I STILL HAVE THE SAME PROBLEM
 
 <a href="https://ibb.co/8Mq3FMK"><img src="https://i.ibb.co/LSmw4Sk/stepping-stone-logo.png" alt="stepping-stone-logo" border="0" width="400px"></a>
 ## **Table of Contents**
