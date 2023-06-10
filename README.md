@@ -1,10 +1,5 @@
 # **Stepping Stone** 
 
-## **IMPORTANT NOTE:**
-### Link to the google drive with the full project (the React client included): https://drive.google.com/file/d/13Jz0sV4zAkgN_ei3YOAsyYnfBepU5kPR/view?usp=sharing
-
-# ^^THE ABOVE LINK HAS BEEN UPDATED 
-
 <a href="https://ibb.co/8Mq3FMK"><img src="https://i.ibb.co/LSmw4Sk/stepping-stone-logo.png" alt="stepping-stone-logo" border="0" width="400px"></a>
 ## **Table of Contents**
 
